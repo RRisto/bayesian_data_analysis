@@ -1,5 +1,9 @@
 ### my version from this: https://github.com/pymc-devs/pymc-resources
 
+- `wsl`
+- `source .venv\bin\activate`
+
+
 # PyMC Resources
 PyMC educational resources, including the PyMC port of the following books (original models in STAN/BUGS/JAGS etc,.):
 
