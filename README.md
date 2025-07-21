@@ -3,6 +3,7 @@
 - `wsl`
 - `source .venv\bin\activate`
 
+Statistical rethinking 2 lecture files are from here. https://github.com/dustinstansbury/statistical-rethinking-2023/tree/main
 
 # PyMC Resources
 PyMC educational resources, including the PyMC port of the following books (original models in STAN/BUGS/JAGS etc,.):
